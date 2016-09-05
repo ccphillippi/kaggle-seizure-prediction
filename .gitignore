@@ -1,0 +1,6 @@
+data/
+processed/
+*.csv
+*.mat
+*.zip
+*.ipynb
